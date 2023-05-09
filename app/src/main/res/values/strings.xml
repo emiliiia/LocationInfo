@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LocationInfo</string>
+    <string name="gpsTitle">GPS</string>
+    <string name="location_information">Інформація про місцезнаходження</string>
+    <string name="button">Button</string>
+    <string name="address">Адреса: </string>
+    <string name="coordinatesOne">Широта: </string>
+    <string name="coordinatesTwo">Висота: </string>
+    <string name="speed">Швидкість:</string>
+    <string name="altitude">Над рівнем Моря:</string>
+    <string name="direction">Напрямок до цілі: </string>
+    <string name="time">Час: </string>
+    <string name="value_to_convert">Value to convert</string>
+    <string name="convert">Convert</string>
+    <string name="result">%s</string>
+    <string name="_0_0">0.0</string>
+</resources>
